@@ -1,0 +1,180 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+/* Navagation Bar*/
+.navbar {
+  position: fixed;
+  top: 0;
+  background-color: #F7FBFC;
+  margin-left: 50%;
+}
+
+.nav-item {
+  padding: 0 18px 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  background: #ddd;
+  color: black;
+}
+
+h1 {
+  color: #769FCD;
+  font-size: 5.62rem;
+  padding-top: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: "Lato";
+  font-weight: 400;
+}
+
+h2 {
+  color: #769FCD;
+  font-size: 2.5rem;
+  text-align: center;
+  padding-top: 1rem;
+  font-family: "Lato";
+  font-weight: 600;
+}
+
+h3 {
+  color: #769FCD;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  font-family: "Lato";
+  font-weight: 600;
+}
+
+.top-container {
+  background-color: #F7FBFC;
+  padding-bottom: 1rem;
+  position: relative;
+}
+
+.Lunda_image {
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.skills {
+  background-color: #B9D7EA;
+  height: 66rem;
+}
+
+.skill-overall {
+  margin-left: 20rem;
+  margin-right: 20rem;
+  width: 80rem;
+}
+
+.skill-text {
+  margin-left: 1rem;
+}
+
+.bench-img {
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 3rem;
+  ;
+}
+
+.microscope-img {
+  float: right;
+  margin-left: 1rem;
+}
+
+.computer-img {
+  float: left;
+  margin-right: 1rem;
+}
+
+.skill-bench {
+  width: 60%;
+  margin: 4rem auto 4rem auto;
+  text-align: left;
+}
+
+.skill-microscopy {
+  width: 40%;
+  margin: 4rem auto 4rem auto;
+  text-align: left;
+}
+
+.skill-computer {
+  width: 60%;
+  margin: 4rem auto 3rem auto;
+  text-align: left;
+}
+
+.Research {
+  margin: 1rem 5rem 1rem 5rem;
+}
+
+.corousel-Research {
+  margin: 1rem 20% 1rem 20%;
+  background-color: #D6E6F2;
+  padding: 2%;
+  text-align: center;
+}
+
+.corousel-item {
+  text-align: center;
+}
+
+.publication_list {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.PICA-image {
+  text-align: center;
+}
+
+.Me-img {
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 3rem;
+  border-radius: 50%;
+}
+
+.container-1 {
+  padding: 2rem 20% 2rem 10%;
+  line-height: 2rem;
+  background-color: #F7FBFC;
+}
+
+.container-2 {
+  padding: 2rem 10% 2rem 20%;
+  line-height: 2rem;
+  background-color: #D6E6F2;
+}
+
+.bottom-container {
+  text-align: center;
+  margin-top: 3rem;
+  padding-top: 3rem;
+}
+
+.Contact-form {
+  padding: 10% 20% 10% 20%;
+  background-color: #769FCD;
+}
+
+.Contact-label {
+  font-family: "Lato";
+  color: #fff;
+}
